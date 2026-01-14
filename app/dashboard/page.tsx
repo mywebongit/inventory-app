@@ -88,7 +88,7 @@ export default async function DashboardPage() {
           <div className="flex items-center justify-between">
             <div>
               <h1 className="text-2xl font-semibold text-gray-900">
-                Dashboard 1
+                Dashboard
               </h1>
               <p className="text-sm text-gray-500">
                 Welcome back! Here is an overview of your inventory.
