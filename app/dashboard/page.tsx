@@ -77,7 +77,7 @@ export default async function DashboardPage() {
     take: 5,
   });
 
-  console.log(totalValue);
+  // console.log(totalValue);
 
   return (
     <div className="min-h-screen bg-gray-50">
